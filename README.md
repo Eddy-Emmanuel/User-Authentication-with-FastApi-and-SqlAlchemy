@@ -49,7 +49,7 @@ This API provides functionality for user registration, authentication, and user 
 - **Description**: Displays the homepage with API documentation.
 
 ## Usage
-- Clone the repository: `git clone <repository_url>`
+- Clone the repository: `git clone https://github.com/Eddy-Emmanuel/User-Authentication-with-FastApi-and-SqlAlchemy`
 - Install dependencies: `pip install -r requirements.txt`
 - Run the application: `uvicorn main:app --reload`
 - Access the API documentation and test the endpoints.
