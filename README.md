@@ -60,7 +60,7 @@ This API provides functionality for user registration, authentication, and user 
 - JWT for authentication
 - Uvicorn
 
-  ![Alt Text](API.png)
+  ![Alt Text](API.jpg)
 
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines in CONTRIBUTING.md.
