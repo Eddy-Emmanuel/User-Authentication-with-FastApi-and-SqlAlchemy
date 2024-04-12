@@ -1,0 +1,8 @@
+pydantic-settings==2.2.1
+pydantic==2.5.3
+SQLAlchemy==2.0.25
+uvicorn==0.29.0
+fastapi==0.110.1
+PyJWT==2.4.0
+python-jose==3.3.0
+passlib==1.7.4
